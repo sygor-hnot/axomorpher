@@ -2,4 +2,4 @@
 
 Here:
 
-https://sygor-hnot.github.io/axomorpher-dist-only/
+https://sygor-hnot.github.io/axomorpher/
